@@ -4,7 +4,10 @@
 
 >bulid 
 指定Dockerfile所在文件的路径，docker-compose会利用这个构建镜像
-build /path/to/dir
+
+```shell
+ build /path/to/dir
+```
 
 > command 
 覆盖容器启动后默认执行的指令
