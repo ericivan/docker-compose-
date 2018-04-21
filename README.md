@@ -22,15 +22,14 @@
 ```shell
   links:
   - my_php_fpm
-  
-  >external_links
 ```
 
+ >external_links
+ 
 连接到docker-compose.yml外部的容器,使用方法跟links类似
 
->external_links:
-
 ```
+external_links:
   - extract_links1
 ```
 
