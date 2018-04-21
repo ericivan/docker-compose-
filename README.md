@@ -28,9 +28,12 @@
 
 连接到docker-compose.yml外部的容器,使用方法跟links类似
 
-external_links:
+>external_links:
+
+```
   - extract_links1
-  
+```
+
 >ports:
   端口映射使用，格式为 主机端口:容器端口
 
