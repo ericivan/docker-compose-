@@ -1,1 +1,1 @@
-1.[docker-compose](src/dokcer-compose.md)
+1.[docker-compose](https://github.com/ericivan/docker-compose-/blob/master/src/docker-compose.md)
