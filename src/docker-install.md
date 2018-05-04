@@ -2,7 +2,7 @@
 
 1.删除系统的docker,可以先执行 yum remove docker
 
-``shell
+```shell
 sudo yum remove docker \
                   docker-client \
                   docker-client-latest \
